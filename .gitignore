@@ -24,8 +24,8 @@ dist-ssr
 *.sw?
 
 # Archivos de configuración de Firebase
-/firebase.json
-/.firebaserc
+#/firebase.json
+#/.firebaserc
 
 # Carpetas generadas por Firebase
 /.firebase/
